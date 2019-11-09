@@ -1,6 +1,6 @@
 # OULAD Dataset Analysis
 
-## Dataset used: [Link]([https://archive.ics.uci.edu/ml/machine-learning-databases/00349/OULAD.zip)
+## Dataset used: [Link](https://archive.ics.uci.edu/ml/machine-learning-databases/00349/OULAD.zip)
 
 ## Steps
 1. Fetch data based on student id from specified files (Preprocessing of data). 
